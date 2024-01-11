@@ -8,16 +8,16 @@
 
 ### HTML, CSS, JavaScript
 
-##Repository
+## Repository
 
-###This is the Github link to the repo https://github.com/Jlvstrasse/password_generator
+### This is the Github link to the repo https://github.com/Jlvstrasse/password_generator
 
-##Usage
+## Usage
 
 ### Follow the prompts and click 'Generate Password' to recieve a random password
 
-##License
+## License
 
-###MIT License
+### MIT License
 
  
